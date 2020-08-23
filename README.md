@@ -5,3 +5,4 @@ This repository contains Lab works and projects that I worked on during the inte
 * [Wave 2](https://github.com/KemmieKemy/WeJapa-Internship/tree/master/Labs/Wave%202)
 * [Wave 3](https://github.com/KemmieKemy/WeJapa-Internship/tree/master/Labs/Wave%203)
 * [Wave 4](https://github.com/KemmieKemy/WeJapa-Internship/tree/master/Labs/Wave%204)
+* [Wave 5](https://github.com/KemmieKemy/WeJapa-Internship/tree/master/Labs/Wave%205)
